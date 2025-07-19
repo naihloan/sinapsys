@@ -1,8 +1,8 @@
-# [Rodcast Demo](https://naihloan.github.io/rodcast/)
+# [Rodcast Demo](https://naihloan.github.io/sinapsys/)
 
-## https://naihloan.github.io/rodcast/
+## https://naihloan.github.io/sinapsys/
 
-**Rodcast** es una plataforma para hablar entre 3 amigos y compartir al multiverso. Tenemos profesiones dispares pero intereses cruzados. ingenieria, sociologia y psicologia se mezclan para filtrar que nos puede interesar en comun y que es lo que las otras partes pueden mostrar, preguntar y bucear mas en profundidad.
+**Sinapsys** es una plataforma para mostrar la música de covers entre 3 amigos y compartir al multiverso. 
 
 ## Table of Contents
 
