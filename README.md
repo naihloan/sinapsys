@@ -1,4 +1,4 @@
-# [Rodcast Demo](https://naihloan.github.io/sinapsys/)
+# [Demo de Sinapsys](https://naihloan.github.io/sinapsys/)
 
 ## https://naihloan.github.io/sinapsys/
 
